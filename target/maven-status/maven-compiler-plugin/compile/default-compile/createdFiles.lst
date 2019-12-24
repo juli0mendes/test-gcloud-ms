@@ -1,0 +1,4 @@
+com\juli0mendes\testgcloud\ServletInitializer.class
+com\juli0mendes\testgcloud\dto\TestResponseDTO.class
+com\juli0mendes\testgcloud\TestGcloudMsApplication.class
+com\juli0mendes\testgcloud\controller\TestController.class
